@@ -1,0 +1,32 @@
+{
+	"cities": [
+		{
+			"city": "Delhi",
+			"cityCharger":
+			[
+				{
+					"availability": "Free",
+					"type": "AC"
+				},
+				{
+					"availability": "Engaged",
+					"type": "DC"
+				}
+			]
+		},
+		{
+			"city": "Mumbai",
+			"cityCharger":
+			[
+				{
+					"availability": "Engaged",
+					"type": "DC"
+				},
+				{
+					"availability": "Free",
+					"type": "AC"
+				}
+			]
+		}
+	]
+}

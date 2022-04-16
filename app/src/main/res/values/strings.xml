@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChargingStations</string>
+    <string name="title_activity_city_view">CityView</string>
+</resources>
